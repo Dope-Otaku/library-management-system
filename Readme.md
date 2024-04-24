@@ -60,6 +60,4 @@ The server should start running, and you should see a message indicating that th
 1. Navigate to the frontend folder of your project.
 2. and now hit go live button in the bottom right corner of the vs code editor.
 
-```bash
-Go live
-```
+![Alt text](./Assets/ss%20of%20go-live.png)
