@@ -3,9 +3,10 @@ const express = require("express");
 const app = express();
 const booksRoutes = require("./routes/books");
 const path = require("path");
+const cors = require("cors");
 
-// Serve static files from the frontend directory
-app.use(express.static(path.join(__dirname, "../frontend")));
+// Enable CORS for all routes
+app.use(cors());
 
 // Middleware
 app.use(express.json());
