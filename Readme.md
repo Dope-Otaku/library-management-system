@@ -26,6 +26,17 @@ CREATE TABLE books (
 );
 ```
 
+## Database and Table Screenshots
+
+### Database: library_management_system
+
+![Database Schema](./Assets/ss%20of%20databases.png)
+
+### Table: books
+
+![Table Schema](./Assets/ss%20of%20tables.png)
+![Books Schema](./Assets/ss%20of%20books.png)
+
 ## Backend Setup
 
 ### Environment Configuration
@@ -60,4 +71,4 @@ The server should start running, and you should see a message indicating that th
 1. Navigate to the frontend folder of your project.
 2. and now hit go live button in the bottom right corner of the vs code editor.
 
-![Alt text](./Assets/ss%20of%20go-live.png)
+![Go live](./Assets/ss%20of%20go-live.png)
