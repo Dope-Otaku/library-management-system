@@ -39,6 +39,10 @@ CREATE TABLE books (
 
 ## Backend Setup
 
+### Backend structure
+
+![Backend structure](./Assets/ss%20of%20backend%20strucutre.png)
+
 ### Environment Configuration
 
 1. Navigate to the backend folder of your project.
@@ -65,6 +69,10 @@ node app.js  # Start the server
 The server should start running, and you should see a message indicating that the server is listening on a specific port.
 
 ## Frontend Setup
+
+### Frontend structure
+
+![Frontend structure](./Assets/ss%20of%20frontend.png)
 
 ### Installation and Run
 
