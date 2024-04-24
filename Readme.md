@@ -46,8 +46,8 @@ CREATE TABLE books (
 3. Add the following environment variables to the `.env` file:
 
 ```env
-MYSQL_USERNAME={your_username}
-MYSQL_PASSWORD={your_password}
+MYSQL_USERNAME={your_username} # MYSQL_USERNAME=name
+MYSQL_PASSWORD={your_password} # MYSQL_PASSWORD=pswd
 ```
 
 Replace `{your_username}` and `{your_password}` with your MySQL username and password respectively.
